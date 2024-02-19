@@ -1,0 +1,8 @@
+C:\Users\91897\source\repos\AssignmentNo_01_Q_02\AssignmentNo_01_Q_02\bin\Debug\AssignmentNo_01_Q_02.exe.config
+C:\Users\91897\source\repos\AssignmentNo_01_Q_02\AssignmentNo_01_Q_02\bin\Debug\AssignmentNo_01_Q_02.exe
+C:\Users\91897\source\repos\AssignmentNo_01_Q_02\AssignmentNo_01_Q_02\bin\Debug\AssignmentNo_01_Q_02.pdb
+C:\Users\91897\source\repos\AssignmentNo_01_Q_02\AssignmentNo_01_Q_02\obj\Debug\AssignmentNo_01_Q_02.csproj.AssemblyReference.cache
+C:\Users\91897\source\repos\AssignmentNo_01_Q_02\AssignmentNo_01_Q_02\obj\Debug\AssignmentNo_01_Q_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\91897\source\repos\AssignmentNo_01_Q_02\AssignmentNo_01_Q_02\obj\Debug\AssignmentNo_01_Q_02.csproj.CoreCompileInputs.cache
+C:\Users\91897\source\repos\AssignmentNo_01_Q_02\AssignmentNo_01_Q_02\obj\Debug\AssignmentNo_01_Q_02.exe
+C:\Users\91897\source\repos\AssignmentNo_01_Q_02\AssignmentNo_01_Q_02\obj\Debug\AssignmentNo_01_Q_02.pdb

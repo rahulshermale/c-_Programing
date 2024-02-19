@@ -1,0 +1,8 @@
+C:\Users\91897\source\repos\ConsoleApp2_Day02_Question04_\ConsoleApp2_Day02_Question04_\bin\Debug\ConsoleApp2_Day02_Question04_.exe.config
+C:\Users\91897\source\repos\ConsoleApp2_Day02_Question04_\ConsoleApp2_Day02_Question04_\bin\Debug\ConsoleApp2_Day02_Question04_.exe
+C:\Users\91897\source\repos\ConsoleApp2_Day02_Question04_\ConsoleApp2_Day02_Question04_\bin\Debug\ConsoleApp2_Day02_Question04_.pdb
+C:\Users\91897\source\repos\ConsoleApp2_Day02_Question04_\ConsoleApp2_Day02_Question04_\obj\Debug\ConsoleApp2_Day02_Question04_.csproj.AssemblyReference.cache
+C:\Users\91897\source\repos\ConsoleApp2_Day02_Question04_\ConsoleApp2_Day02_Question04_\obj\Debug\ConsoleApp2_Day02_Question04_.csproj.SuggestedBindingRedirects.cache
+C:\Users\91897\source\repos\ConsoleApp2_Day02_Question04_\ConsoleApp2_Day02_Question04_\obj\Debug\ConsoleApp2_Day02_Question04_.csproj.CoreCompileInputs.cache
+C:\Users\91897\source\repos\ConsoleApp2_Day02_Question04_\ConsoleApp2_Day02_Question04_\obj\Debug\ConsoleApp2_Day02_Question04_.exe
+C:\Users\91897\source\repos\ConsoleApp2_Day02_Question04_\ConsoleApp2_Day02_Question04_\obj\Debug\ConsoleApp2_Day02_Question04_.pdb

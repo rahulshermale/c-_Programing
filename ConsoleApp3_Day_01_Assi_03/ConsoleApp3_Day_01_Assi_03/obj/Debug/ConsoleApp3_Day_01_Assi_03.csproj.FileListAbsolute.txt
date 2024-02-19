@@ -1,0 +1,8 @@
+C:\Users\91897\source\repos\ConsoleApp3_Day_01_Assi_03\ConsoleApp3_Day_01_Assi_03\bin\Debug\ConsoleApp3_Day_01_Assi_03.exe.config
+C:\Users\91897\source\repos\ConsoleApp3_Day_01_Assi_03\ConsoleApp3_Day_01_Assi_03\bin\Debug\ConsoleApp3_Day_01_Assi_03.exe
+C:\Users\91897\source\repos\ConsoleApp3_Day_01_Assi_03\ConsoleApp3_Day_01_Assi_03\bin\Debug\ConsoleApp3_Day_01_Assi_03.pdb
+C:\Users\91897\source\repos\ConsoleApp3_Day_01_Assi_03\ConsoleApp3_Day_01_Assi_03\obj\Debug\ConsoleApp3_Day_01_Assi_03.csproj.AssemblyReference.cache
+C:\Users\91897\source\repos\ConsoleApp3_Day_01_Assi_03\ConsoleApp3_Day_01_Assi_03\obj\Debug\ConsoleApp3_Day_01_Assi_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\91897\source\repos\ConsoleApp3_Day_01_Assi_03\ConsoleApp3_Day_01_Assi_03\obj\Debug\ConsoleApp3_Day_01_Assi_03.csproj.CoreCompileInputs.cache
+C:\Users\91897\source\repos\ConsoleApp3_Day_01_Assi_03\ConsoleApp3_Day_01_Assi_03\obj\Debug\ConsoleApp3_Day_01_Assi_03.exe
+C:\Users\91897\source\repos\ConsoleApp3_Day_01_Assi_03\ConsoleApp3_Day_01_Assi_03\obj\Debug\ConsoleApp3_Day_01_Assi_03.pdb

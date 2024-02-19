@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp3_Day_01_Assi_03, Configuration: Debug Any CPU ------
+1>  ConsoleApp3_Day_01_Assi_03 -> C:\Users\91897\source\repos\ConsoleApp3_Day_01_Assi_03\ConsoleApp3_Day_01_Assi_03\bin\Debug\ConsoleApp3_Day_01_Assi_03.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 8:38 PM and took 00.135 seconds ==========

@@ -1,0 +1,11 @@
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\bin\Debug\ConsoleUse.exe.config
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\bin\Debug\ConsoleUse.exe
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\bin\Debug\ConsoleUse.pdb
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\bin\Debug\ClassLibrary1.dll
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\bin\Debug\ClassLibrary1.pdb
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\obj\Debug\ConsoleUse.csproj.AssemblyReference.cache
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\obj\Debug\ConsoleUse.csproj.SuggestedBindingRedirects.cache
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\obj\Debug\ConsoleUse.csproj.CoreCompileInputs.cache
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\obj\Debug\ConsoleUse.csproj.CopyComplete
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\obj\Debug\ConsoleUse.exe
+C:\Users\91897\source\repos\ConsoleUse\ConsoleUse\obj\Debug\ConsoleUse.pdb
